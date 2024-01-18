@@ -4,6 +4,8 @@
 
 ETF Rocks is a smart contract developed on the Ethereum blockchain using Solidity language. The contract is designed to create a token named "ETF Rocks" with the symbol "ETF". The contract includes features such as SafeMath library for secure mathematical operations, IERC20 interface for standard ERC20 functions, Ownable contract for ownership related functionalities, and interfaces for interacting with a decentralized exchange.
 
+Audit: https://sourcehat.com/audits/ETFRocks/
+
 ## Features
 
 1. **SafeMath Library**: This library ensures that mathematical operations are conducted safely to prevent overflows and underflows.
